@@ -1,1 +1,3 @@
-class java() {}
+class java {
+int 1;
+}
